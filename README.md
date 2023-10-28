@@ -1,3 +1,3 @@
-# Py Enc
+# .github
 
 Fast and realiable image encrypter/decrypter
